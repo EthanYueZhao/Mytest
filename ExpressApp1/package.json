@@ -2,9 +2,7 @@
   "name": "ExpressApp1",
   "version": "0.0.0",
   "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
+ 
   "description": "ExpressApp1",
   "author": {
     "name": "Yue",
